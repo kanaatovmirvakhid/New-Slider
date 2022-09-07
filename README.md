@@ -1,2 +1,1 @@
-# New-Slider
-New-Slider
+# New_Slider
